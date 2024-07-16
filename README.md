@@ -10,4 +10,4 @@ This is a simple one-page web application that displays information about differ
 - Favorites are stored in the local storage.
 
 ## Live Demo
-You can access the live app [here](https://ritalin-cd.github.io/puppy_picker/).
+You can access the live app [here](https://ritalin-cd.github.io/puppypicker/).
