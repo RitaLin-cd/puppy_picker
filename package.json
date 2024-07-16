@@ -1,0 +1,15 @@
+{
+  "name": "findurpup",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "find the pup that suits u best",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "author": "Margarita Lin",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
